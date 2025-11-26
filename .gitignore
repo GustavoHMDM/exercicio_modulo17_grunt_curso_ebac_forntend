@@ -1,6 +1,4 @@
 node_modules
 dev
 src
-Grunt.js
-package-lock.json
-package.json
+grunt
